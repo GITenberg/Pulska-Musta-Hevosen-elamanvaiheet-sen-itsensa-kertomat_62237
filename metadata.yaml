@@ -1,0 +1,30 @@
+_repo: Pulska-Musta-Hevosen-elamanvaiheet-sen-itsensa-kertomat_62237
+_version: 0.0.1
+alternative_title: Black Beauty. Finnish
+creator:
+  author:
+    agent_name: Sewell, Anna
+    alias: Sewell, Ana
+    birthdate: 1820
+    deathdate: 1878
+    gutenberg_agent_id: '154'
+    url: http://www.gutenberg.org/2009/agents/154
+    wikipedia: https://en.wikipedia.org/wiki/Anna_Sewell
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62237'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- GITenberg
+title: 'Pulska Musta: Hevosen elämänvaiheet, sen itsensä kertomat'
+url: http://www.gutenberg.org/ebooks/62237
